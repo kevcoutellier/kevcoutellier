@@ -7,7 +7,7 @@ Hi there, I'm Kevin</a> 👋
 </h3>
 
 <h2 align="center">
-I'm a Full-Stack Web Developer 💻 & Blockchain consultant ⛓
+I'm a Junior Full-Stack Web Developer 💻 & Blockchain consultant ⛓
 </h2> 
 
 I love the entire process of developing creative websites & applications.
