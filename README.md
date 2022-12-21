@@ -58,4 +58,4 @@ I love the entire process of developing creative websites & applications.
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=kevcoutellier.kevcoutellier)](https://github.com/kevcoutellier)
 
-view rawREADME.txt hosted with ❤ by GitHub
+hosted with ❤ by GitHub
