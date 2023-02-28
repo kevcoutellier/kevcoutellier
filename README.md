@@ -26,7 +26,10 @@ I love the entire process of developing creative websites & applications.
 - My CSS skill
 
 ## 🌱 I'm currently learning
-
+- Node.js
+- Vue.js
+- React
+- Redux
 - Solidity
 
 
