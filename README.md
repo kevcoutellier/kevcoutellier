@@ -16,19 +16,8 @@ I love the entire process of developing creative websites & applications.
 
 <a href="https://www.linkedin.com/in/kevin-coutellier-1b900b7b/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
 <br>
-<a href="https://www.kevin-coutellier.com">My Portfolio</a>
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
-
-## 🔭 I'm currently working on
-
-- Different projects
-## 🌱 I'm currently working with the following stacks
-- JAVA
-- React
-- Tailwind
-- PHP
-
 
 ## 💼 Technical Skills
 
