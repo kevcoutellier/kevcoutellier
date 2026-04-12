@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+AI+automation+pipelines+%F0%9F%A4%96;GenAI+Engineer+%40+Amadeus+IT+Group;M2+IA%2FBig+Data+%40+Epitech;Blockchain+%7C+Trading+%7C+Real+Estate+Tech)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+AI+automation+pipelines+%F0%9F%A4%96;GenAI+Engineer+%40+Amadeus+IT+Group;M2+IA%2FBig+Data+%40+Epitech;Founder+%40+AgentLayers+%7C+Project+Odin)](https://git.io/typing-svg)
 
 <br/>
 
@@ -24,9 +24,9 @@ const kevin = {
   role:         "GenAI Engineer @ Amadeus IT Group",
   formation:    "M2 Ingénierie Informatique – IA/Big Data @ Epitech",
   consulting:   ["AI Automation", "Blockchain", "Full-Stack Development"],
-  certifications: ["SAFe 6 Scrum Master", "Azure AI Engineer (in progress)"],
-  interests:    ["Algorithmic Trading", "Real Estate Tech", "Web3", "VR/XR"],
-  currentFocus: "Building AI-powered pipelines with n8n + Claude API"
+  certifications: ["SAFe 6 Scrum Master"],
+  interests:    ["Algorithmic Trading", "AI Agents", "Web3", "VR/XR"],
+  currentFocus: "AgentLayers (B2B SaaS) + Project Odin (open source agent framework)"
 };
 ```
 
@@ -38,28 +38,28 @@ const kevin = {
 <tr>
 <td width="50%">
 
-### 🏠 Real Estate AI Estimator
-Pipeline d'estimation immobilière IA combinant données DVF, Claude API et génération PDF via Gotenberg. Précision ~5% sur les prix de marché.
+### 🛡️ AgentLayers — [agent-layers.com](https://agent-layers.com)
+Plateforme B2B SaaS européenne établissant le standard de confiance pour l'écosystème des agents IA. AEO Scanner, Agent Trust Score (badge SVG), Skill/MCP/A2A Scanners. En live, beta ouverte.
 
-`n8n` `Claude API` `Gotenberg` `DVF` `PDF`
+`Next.js 14` `Neon` `Stripe` `Prisma` `Vercel` `EU AI Act`
 
 </td>
 <td width="50%">
 
-### 📈 KEVO Trading Strategy
-Stratégie algorithmique systematique sur SOL/USDT (4H) en Pine Script. Config "Both + EMA200 + Trail" → ~63% de rendement sur 3 ans.
+### ⚡ Project Odin
+Agent IA autonome open source **secure-by-design** — architecture AEGIS en 4 couches (IFC, Supply Chain vérifiable, DID + Cedar Policy Engine, Trust Mesh). Sujet du mémoire de Master 2.
 
-`Pine Script` `TradingView` `EMA` `MACD` `SOL/USDT`
+`Open Source` `AEGIS` `Ed25519` `OWASP ASI` `EU AI Act`
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🔧 AutomateHub
-Plateforme mettant en relation clients et experts en automatisation : n8n, Zapier, Make.com, et workflows IA sur-mesure.
+### 📈 KEVO Trading Strategy
+Stratégie algorithmique systématique sur SOL/USDT (4H) en Pine Script. Config "Both + EMA200 + Trail" → ~63% de rendement sur 3 ans.
 
-`Node.js` `TypeScript` `MongoDB` `Stripe` `n8n`
+`Pine Script` `TradingView` `EMA` `MACD` `SOL/USDT`
 
 </td>
 <td width="50%">
@@ -123,9 +123,9 @@ Agent de voyage online croisant IA et VR pour une planification de trip immersiv
 
 ## 🎯 Ce sur quoi je travaille en ce moment
 
-- 🏗️ **Pipeline IA immobilier** — estimation automatisée avec Claude API + données DVF  
+- 🛡️ **AgentLayers** — standard de confiance pour agents IA, B2B SaaS EU ([agent-layers.com](https://agent-layers.com))  
+- ⚡ **Project Odin** — agent IA open source secure-by-design, architecture AEGIS (mémoire M2)  
 - 📈 **KEVO v6** — optimisation drawdown < 30% sur SOL/USDT en Pine Script  
-- 🎓 **Azure AI Engineer** — préparation certification  
 - 🤝 **Consulting indépendant** — automatisation IA, blockchain, full-stack
 
 ---
