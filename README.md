@@ -1,115 +1,139 @@
-![Banner](https://user-images.githubusercontent.com/115345892/208470201-2ae7f1c9-db60-4e2e-a807-15c05ab6e602.png)
+<div align="center">
 
-# 👋 Hi, I'm Kevin  
-
-🚀 **Scrum Master | AI Engineer | Full-Stack Developer | Blockchain Consultant**  
-📍 Currently at **Amadeus IT Group**, Certified **SAFe 6**, pursuing **Azure AI Engineer Certification**  
-
----
-
-## 💡 About Me  
-
-- 🎯 Experienced in **Agile leadership** & **team facilitation** (Scrum Master @Amadeus)  
-- 🤖 Passionate about **Artificial Intelligence, Machine Learning & Automation**  
-- 🌍 Exploring the intersection of **AI, VR, and Web3** to build the future of travel and automation  
-- 📈 Strong background in **software engineering, system architecture, and product delivery**  
-
----
-
-## 🏢 Current Role  
-
-🔹 **Scrum Master & AI Engineer @ Amadeus (Villeneuve-Loubet, France)**  
-- Facilitating agile ceremonies, ensuring continuous delivery & cross-team alignment  
-- Developing and integrating AI solutions in large-scale systems  
-- Driving innovation in travel technology with a focus on **GenAI** and **automation**  
-
----
-
-## 🚀 Personal Projects  
-
-- **AutomateHub** 🔧  
-  Platform connecting clients & experts in automation tools  
-  (n8n, Zapier, Make.com, custom AI workflows)  
-
-- **Dreamscape** 🌍  
-  Online Travel Agent leveraging **VR & AI**  
-  for immersive and personalized trip planning  
-
----
-
-## 📜 Certifications  
-
-- ✅ **SAFe 6 Certified Scrum Master**  
-- 🔄 **Azure AI Engineer (in progress)**  
-
----
-
-## 🛠️ Tech Stack  
-
-### 🌐 Languages & Frameworks  
-- **Python**, **JavaScript/TypeScript**, **Java**, **Ruby**, **PHP**  
-- **React**, **Node.js**, **Rails**, **Symfony**, **Elixir/Phoenix**  
-
-### 📊 Data & AI  
-- **Pandas**, **NumPy**, **Matplotlib**  
-- **Machine Learning & GenAI**  
-- **Automation tools**: n8n, Zapier, Make.com  
-
-### 💾 Databases  
-- **PostgreSQL**, **MySQL**, **MongoDB**, **SQLite**  
-
-### ⚙️ DevOps & Tools  
-- **Docker**, **GitHub Actions**, **Jenkins**, **Postman**  
-- **Agile Tools**: Jira, Confluence  
-
----
-
-## 🔗 Connect with Me  
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/kevin-coutellier-1b900b7b/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:kevin.coutellier@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/ton-github">
-    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
----
-
-✨ *“Agility is not about speed, it’s about adaptability and delivering real value.”*  
-
-
-
-## Top Open Source -
-
-<p align="left">
-  <a href="https://github.com/kevcoutellier?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Kevin%20Coutellier&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full-Stack%20Dev%20%7C%20Blockchain%20Consultant&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
 
 <br/>
-<hr/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+AI+automation+pipelines+%F0%9F%A4%96;GenAI+Engineer+%40+Amadeus+IT+Group;M2+IA%2FBig+Data+%40+Epitech;Blockchain+%7C+Trading+%7C+Real+Estate+Tech)](https://git.io/typing-svg)
+
 <br/>
 
-<p align="center">
-  <a href="https://github.com/kevcoutellier">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kevcoutellier&theme=radical&border=7F3FBF&background=0D1117" alt="Kevin's GitHub streak"/>
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-coutellier-1b900b7b/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://kevin-coutellier.vercel.app)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kev.coutellier@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kevcoutellier)
 
-<p align="center">
-  <a href="https://github.com/kevcoutellier">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kevcoutellier&theme=radical" alt="Kevin's GitHub Contribution"/>
-  </a>
-</p>
+</div>
 
-<a> 
-    <a href="https://github.com/kevcoutellier"><img alt="Kevin's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=kevcoutellier&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/kevcoutellier"><img alt="Kevin's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=kevcoutellier&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
-</a>
+---
 
-hosted with ❤ by GitHub
+## `$ whoami`
+
+```typescript
+const kevin = {
+  role:         "GenAI Engineer @ Amadeus IT Group",
+  formation:    "M2 Ingénierie Informatique – IA/Big Data @ Epitech",
+  consulting:   ["AI Automation", "Blockchain", "Full-Stack Development"],
+  certifications: ["SAFe 6 Scrum Master", "Azure AI Engineer (in progress)"],
+  interests:    ["Algorithmic Trading", "Real Estate Tech", "Web3", "VR/XR"],
+  currentFocus: "Building AI-powered pipelines with n8n + Claude API"
+};
+```
+
+---
+
+## 🚀 Projets phares
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏠 Real Estate AI Estimator
+Pipeline d'estimation immobilière IA combinant données DVF, Claude API et génération PDF via Gotenberg. Précision ~5% sur les prix de marché.
+
+`n8n` `Claude API` `Gotenberg` `DVF` `PDF`
+
+</td>
+<td width="50%">
+
+### 📈 KEVO Trading Strategy
+Stratégie algorithmique systematique sur SOL/USDT (4H) en Pine Script. Config "Both + EMA200 + Trail" → ~63% de rendement sur 3 ans.
+
+`Pine Script` `TradingView` `EMA` `MACD` `SOL/USDT`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🔧 AutomateHub
+Plateforme mettant en relation clients et experts en automatisation : n8n, Zapier, Make.com, et workflows IA sur-mesure.
+
+`Node.js` `TypeScript` `MongoDB` `Stripe` `n8n`
+
+</td>
+<td width="50%">
+
+### 🌍 Dreamscape
+Agent de voyage online croisant IA et VR pour une planification de trip immersive et personnalisée.
+
+`GenAI` `VR` `React` `Travel Tech`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+### 🤖 AI & Automation
+![Claude](https://img.shields.io/badge/Claude_API-D97706?style=flat-square&logo=anthropic&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Make](https://img.shields.io/badge/Make.com-6D00CC?style=flat-square&logo=make&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+
+### 🌐 Languages & Frameworks
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=flat-square&logo=elixir&logoColor=white)
+
+### 🔗 Blockchain & Web3
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3dotjs&logoColor=white)
+
+### 💾 Databases & DevOps
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kevcoutellier&theme=midnight-purple&border=7F3FBF&background=0D1117&ring=A78BFA&fire=F472B6&currStreakLabel=A78BFA" width="49.5%"/>
+<img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=kevcoutellier&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=A78BFA&icon_color=F472B6" width="49.5%"/>
+
+<br/><br/>
+
+<img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=kevcoutellier&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=A78BFA&icon_color=F472B6" width="49.5%"/>
+
+</div>
+
+---
+
+## 🎯 Ce sur quoi je travaille en ce moment
+
+- 🏗️ **Pipeline IA immobilier** — estimation automatisée avec Claude API + données DVF  
+- 📈 **KEVO v6** — optimisation drawdown < 30% sur SOL/USDT en Pine Script  
+- 🎓 **Azure AI Engineer** — préparation certification  
+- 🤝 **Consulting indépendant** — automatisation IA, blockchain, full-stack
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+
+*"Ship fast. Automate everything. Keep learning."*
+
+</div>
