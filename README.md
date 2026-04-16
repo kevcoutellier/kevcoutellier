@@ -57,9 +57,7 @@ Agent IA autonome open source **secure-by-design** — architecture AEGIS en 4 c
 <td width="50%">
 
 ### 📈 KEVO Trading Strategy
-Stratégie algorithmique systématique sur SOL/USDT (4H) en Pine Script. Config "Both + EMA200 + Trail" → ~63% de rendement sur 3 ans.
-
-`Pine Script` `TradingView` `EMA` `MACD` `SOL/USDT`
+Stratégie algorithmique de suivi de tendance sur SOL/USDT (4H) combinant un signal Pine Script (EMA20/50/200 + MACD + ATR trailing) avec un agent de Reinforcement Learning (Actor-Critic) entraîné à filtrer et dimensionner les positions. Pipeline complet : backtest, hyperparameter sweep, et bot de trading live (paper/testnet/live) sur Binance Futures.
 
 </td>
 <td width="50%">
