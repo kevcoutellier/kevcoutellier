@@ -47,7 +47,7 @@ Plateforme B2B SaaS européenne établissant le standard de confiance pour l'éc
 <td width="50%">
 
 ### ⚡ Project Odin
-Agent IA autonome open source **secure-by-design** — architecture AEGIS en 4 couches (IFC, Supply Chain vérifiable, DID + Cedar Policy Engine, Trust Mesh). Sujet du mémoire de Master 2.
+Agent IA autonome open source **secure-by-design** — architecture AEGIS en 4 couches (IFC, Supply Chain vérifiable, DID + Cedar Policy Engine, Trust Mesh).
 
 `Open Source` `AEGIS` `Ed25519` `OWASP ASI` `EU AI Act`
 
